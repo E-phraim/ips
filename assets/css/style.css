@@ -804,6 +804,7 @@ nav .nav-bar .logo a {
   margin-bottom: 0px;
   margin-left: 0px;
   width: 270px;
+  object-fit: cover;
 }
 
 .team-card {
