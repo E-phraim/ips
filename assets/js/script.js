@@ -192,16 +192,16 @@ rightBtn.addEventListener('mouseleave', stopMovement)
 //Start this baby up
 ;(function init() {
   var images = [
-    './assets/images/gallery1.jpeg',
-    './assets/images/gallery3.jpeg',
-    './assets/images/gallery4.jpeg',
-    './assets/images/gallery7.jpeg',
-    './assets/images/gallery6.jpeg',
-    './assets/images/gallery3.jpeg',
-    './assets/images/gallery4.jpeg',
-    './assets/images/gallery2.jpeg',
-    './assets/images/gallery8.jpeg',
-    './assets/images/gallery5.jpeg',
+    '../images/gallery1.jpeg',
+    '../images/gallery2.jpeg',
+    '../images/gallery3.jpeg',
+    '../images/gallery7.jpeg',
+    '../images/gallery6.jpeg',
+    '../images/gallery4.jpeg',
+    '../images/gallery4.jpeg',
+    '../images/gallery2.jpeg',
+    '../images/gallery8.jpeg',
+    '../images/gallery5.jpeg',
   ]
 
   //Set Initial Featured Image
