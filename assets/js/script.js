@@ -192,7 +192,7 @@ rightBtn.addEventListener('mouseleave', stopMovement)
 //Start this baby up
 ;(function init() {
   var images = [
-    './assets/images/gallery1.jpeg',
+    '../images/gallery2.jpeg',
     './assets/images/gallery2.jpeg',
     './assets/images/gallery3.jpeg',
     './assets/images/gallery7.jpeg',
